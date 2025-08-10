@@ -1,0 +1,5 @@
+{
+  "name": "Sample Plugin",
+  "version": "1.0",
+  "description": "Adds a sample command to greet."
+}

@@ -1,0 +1,18 @@
+Project :
+An automation software that uses its own language and syntax for automation scripting allowing even beginners with easy to learn syntax and keywords to write automation scripts to make their life easier even more the main idea for this is that given it uses a text-based scripting its easier to write the scripts using an AI simply by feeding the syntax and logic knowledge of the scripting language so the scripting process can be more streamlined and easier.
+
+PHASE I:
+A cool notepad like interface with run-script option
+
+Syntax highlighter : for the user to differentiate between syntax, keywords, applications and ordinary texts or characters.
+
+Autocomplete or suggestion : will suggest the keywords or syntax as well as available applications for cases when the user have to open applications or close them.
+
+Basic Syntax and Keywords such as : 
+1. open <application> : allows opening applications also autodetects that an application has to come after open command so suggests available applications by name for example if I type no.. then will show notepad in suggestion or other apps.
+2. type <text> : will allow text autotyping also will allow special character and function keys using backslash like /t for tab, /ct for control , /e for enter, /b for backspace, /s for space, /(ct + t) for ctrl tab and so on for shift and other functionalities.
+3. wait <seconds> : allows defining the wait timer 
+4. close <application> allows closing applications from the background.
+
+a debug terminal to display all the commands running or executed for debugging purpose.
+
