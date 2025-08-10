@@ -16,3 +16,7 @@ Basic Syntax and Keywords such as :
 
 a debug terminal to display all the commands running or executed for debugging purpose.
 
+##FEATURE UPDATE## 
+Give the syntax autocompletion visual studio like power and performance that is capable of suggesting on the typing location site like as well as accepts the suggestion on pressing tab.
+
+
