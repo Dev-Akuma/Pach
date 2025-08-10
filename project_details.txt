@@ -19,4 +19,16 @@ a debug terminal to display all the commands running or executed for debugging p
 ##FEATURE UPDATE## 
 Give the syntax autocompletion visual studio like power and performance that is capable of suggesting on the typing location site like as well as accepts the suggestion on pressing tab.
 
+Would like to give the text editor the numbered line marker like visual studio code and other code editors for debugging purpose to understand and know which line is giving the issues and what to change , where to change
+
+##INTERFACE POLISH##
+Well now the interface will be redesigned a bit, first of all I'd want a more flexible interface with :
+top bar has : 
+1. File option having ( New file, Open file, Open folder, Recents, Save, Save As,  Exit )
+2. Edit option (let's leave it empty for now)
+3. View option (This will have appearance and other preferences but let's leave it empty for now)
+4. Run option (This will simply run the Pach file)
+
+Also I'd like to make the debug console to appear on left giving it somewhat of the classic nintendo ds vibes.
+Oh Oh I'd also like to make it have an explorer for the user to have their pach files saved like visual studio code
 

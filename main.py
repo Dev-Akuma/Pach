@@ -2,6 +2,7 @@
 
 import sys
 from PyQt5.QtWidgets import QApplication
+from PyQt5.QtWidgets import QPlainTextEdit, QCompleter, QWidget, QTextEdit
 from core.command_registry import CommandRegistry
 from core.executor import Executor
 from core.plugin_manager import PluginManager
