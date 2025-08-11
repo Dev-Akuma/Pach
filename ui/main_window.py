@@ -42,6 +42,14 @@ class MainWindow(QMainWindow):
         # Left splitter: vertical - terminal + file explorer
         left_splitter = QSplitter(Qt.Vertical)
         left_splitter.addWidget(self.terminal)
+
+        self.terminal.setStyleSheet("""
+            background-color: #292929;
+            color: white;
+            font-family: Consolas, "Courier New", monospace;
+            font-size: 9pt;
+        """)
+
         left_splitter.addWidget(self.file_explorer)
         left_splitter.setSizes([300, 200])
 
